@@ -1,0 +1,8 @@
+.next/
+out/
+node_modules/
+*.tsbuildinfo
+.DS_Store
+.env*
+!.env.example
+.impeccable/
